@@ -20,6 +20,7 @@
 
     <include
         layout="@layout/mpris_control"
+        android:id="@+id/mpris_control"
         android:layout_width="0dp"
         android:layout_height="match_parent"
         android:layout_weight="1" />
